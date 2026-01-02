@@ -1,5 +1,5 @@
 import "./Main.css";
-import { assets } from "../../assets/assets";
+import { assets } from "../../assets/assets.js";
 import { useContext } from "react";
 import { Context } from "../../context/Context.jsx";
 
